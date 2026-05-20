@@ -1,4 +1,4 @@
-# 📂 Spring Boot REST API Practice Project
+# 📂 Spring Boot REST API Practice
 
 This repository contains my practice work created while learning **Spring Boot** and building **REST APIs**.
 In this project, I implemented a complete backend structure using layered architecture to understand how real-world applications are designed.
