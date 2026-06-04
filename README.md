@@ -11,7 +11,7 @@ The purpose of this project is to learn how backend systems work — from handli
 
 I followed a proper **industry-style project structure** including Controller, Service, Repository, DTO, Entity, and Configuration layers.
 
----
+--- 
 
 ## 🧱 Project Architecture
 
