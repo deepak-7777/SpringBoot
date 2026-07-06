@@ -31,7 +31,7 @@ This project follows the layered architecture:
 ## 🚀 Topics Covered
 
 * Spring Boot Project Setup
-* REST API Development
+* REST API Development 
 * CRUD Operations (Create, Read, Update, Delete)
 * Layered Architecture
 * Spring Data JPA
