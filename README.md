@@ -6,7 +6,7 @@ In this project, I implemented a complete backend structure using layered archit
 ---
 
 ## 📚 About
-
+ 
 The purpose of this project is to learn how backend systems work — from handling HTTP requests to interacting with the database — using Spring Boot.
 
 I followed a proper **industry-style project structure** including Controller, Service, Repository, DTO, Entity, and Configuration layers.
